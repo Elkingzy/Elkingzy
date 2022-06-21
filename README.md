@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elkingzy
+- 👋 Hi, I’m @elKingzyOshy
 - 👀 I’m interested in coding and becoming a software engineer
 - 🌱 I’m currently learning cloud technologies and just finished internship with AWS
 - 💞️ I’m looking to collaborate on any AI and ML projects and developing my SDE skills
